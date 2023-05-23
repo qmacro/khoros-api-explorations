@@ -1,0 +1,110 @@
+#!/usr/bin/env bash
+
+# Simple framework for calling Khoros APIs. The way this works is that
+# files are created, for cacheing and step purposes. 
+#
+# All API URLs requested are logged in a log file for manual use if 
+# required.
+#
+# Any dataset retrieved via an API call is saved in a corresponding
+# JSON file, named after the function used to retrieve that dataset,
+# for example upcoming_codejams.json and rsvps.json. This is so the
+# data can be queried ad hoc after the script has finished. Note that
+# new executions of this script will overwrite existing file content.
+
+set -eo pipefail
+
+declare baseurl="https://groups.community.sap.com/api/2.0"
+declare nowepochms
+declare logfile
+
+nowepochms="$(date +%s%N | cut -b1-13)"
+logfile="$(basename "$0").log"
+
+# Utility functions -------------------------------------------------
+
+log() {
+
+  echo "$*" >> "$logfile"
+
+}
+
+makerequest() {
+
+  local url="${1:?Specify URL}"
+
+  curl \
+    --fail \
+    --silent \
+    --url "$url"
+
+  log "$url"
+
+}
+
+search() {
+
+  local query="${1:?Specify LiQL query}"
+  makerequest "$baseurl/search?q=$(urlencode "$query")"
+
+}
+
+# Specific API request functions ------------------------------------
+
+upcoming_codejams() {
+
+  search "$(cat << EOF | tr '\n' ' '
+select *
+from messages
+where board.id = 'codejam-events'
+and occasion_data.start_time > $nowepochms
+and depth = 0
+order by occasion_data.start_time
+EOF
+  )"
+
+}
+
+rsvps() {
+
+  local eventids="$1"
+
+  search "$(cat << EOF | tr '\n' ' '
+select *
+from rsvps
+where message.id in ($eventids)
+limit 1000
+EOF
+  )"
+
+}
+
+# Everything starts here --------------------------------------------
+
+main() {
+
+  local ids
+
+  # Retrieve upcoming CodeJams
+  upcoming_codejams > upcoming_codejams.json
+
+  # Gather CodeJam event IDs for use in a subsequent query, in the
+  # following form: '1', '2', '3' etc.
+
+  ids="$(
+    jq -r '[.data.items[].id]|@csv' upcoming_codejams.json \
+    | tr '"' "'"
+  )"
+
+  # Now use those IDs in a query for RSVP data
+  rsvps "$ids" > rsvps.json
+
+  # Now we have CodeJam and RSVP datasets we can merge them
+  jq \
+    --slurp \
+    --from-file merge-codejams-rsvps.jq \
+    rsvps.json upcoming_codejams.json
+
+}
+
+main "$@"

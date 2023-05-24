@@ -3,7 +3,7 @@
 # Simple framework for calling Khoros APIs. The way this works is that
 # files are created, for cacheing and step purposes. 
 #
-# All API URLs requested are logged in a log file for manual use if 
+# All API URLs requested are logged in a file for manual use if 
 # required.
 #
 # Any dataset retrieved via an API call is saved in a corresponding
@@ -11,21 +11,33 @@
 # for example upcoming_codejams.json and rsvps.json. This is so the
 # data can be queried ad hoc after the script has finished. Note that
 # new executions of this script will overwrite existing file content.
+#
+# Also, this script will save to a file, based on this script's name
+# (i.e. kapi.json) the final JSON dataset, as well as emitting it to
+# STDOUT.
 
 set -eo pipefail
 
 declare baseurl="https://groups.community.sap.com/api/2.0"
 declare nowepochms
-declare logfile
+declare scriptname
 
 nowepochms="$(date +%s%N | cut -b1-13)"
-logfile="$(basename "$0").log"
+scriptname="$(basename "$0")"
 
 # Utility functions -------------------------------------------------
 
+
+die() {
+
+  echo "$*"
+  exit 1
+
+}
+
 log() {
 
-  echo "$*" >> "$logfile"
+  echo "$*" >> "$scriptname.log"
 
 }
 
@@ -44,8 +56,15 @@ makerequest() {
 
 search() {
 
+  # Makes LiQL query via the 'search' API endpoint, and also
+  # saves the result in a file named after the caller function.
+
+  local caller
+  caller="${FUNCNAME[1]}"
+
   local query="${1:?Specify LiQL query}"
-  makerequest "$baseurl/search?q=$(urlencode "$query")"
+  makerequest "$baseurl/search?q=$(urlencode "$query")" \
+    | tee "$caller.json"
 
 }
 
@@ -81,30 +100,37 @@ EOF
 
 # Everything starts here --------------------------------------------
 
-main() {
+start() {
 
   local ids
 
-  # Retrieve upcoming CodeJams
-  upcoming_codejams > upcoming_codejams.json
+  # Clean up any old dataset files and log file
+  rm -f "$scriptname.log" rsvps.json upcoming_codejams.json
 
-  # Gather CodeJam event IDs for use in a subsequent query, in the
-  # following form: '1', '2', '3' etc.
-
+  # Retrieve upcoming CodeJams and then gather their event IDs for
+  # use in a subsequent query, like this: '1', '2', '3' etc.
   ids="$(
-    jq -r '[.data.items[].id]|@csv' upcoming_codejams.json \
+    jq -r '[.data.items[].id]|@csv' <(upcoming_codejams) \
     | tr '"' "'"
   )"
 
-  # Now use those IDs in a query for RSVP data
-  rsvps "$ids" > rsvps.json
+  # Now use those IDs in a query for RSVP data (and redirect output
+  # to /dev/null as we don't need to use it here; a dataset called
+  # rsvps.json has been saved implicitly).
+  rsvps "$ids" > /dev/null
 
-  # Now we have CodeJam and RSVP datasets we can merge them
+  # Check we have the two dataset files (implicitly via the tee call
+  # in the search function) before proceeding.
+  [ ! -f rsvps.json ] || [ ! -f upcoming_codejams.json ] \
+    && die "Datasets not available"
+
+  # Now we have CodeJam and RSVP datasets, we can merge them.
   jq \
     --slurp \
     --from-file merge-codejams-rsvps.jq \
-    rsvps.json upcoming_codejams.json
+    rsvps.json upcoming_codejams.json \
+    | tee "$scriptname.json"
 
 }
 
-main "$@"
+start "$@"

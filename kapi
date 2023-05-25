@@ -133,4 +133,23 @@ start() {
 
 }
 
-start "$@"
+liql() {
+
+  search "$*" | jq .
+
+}
+
+
+main() {
+
+  # Assume we are given an LiQL expression if there are any args
+  if [[ $# -gt 0 ]]; then
+    liql "$@"
+  else
+    start
+  fi
+
+}
+
+
+main "$@"

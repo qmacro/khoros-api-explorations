@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+"""
+Simple URL encoding of first argument passed or first string via STDIN
+"""
+import sys
+import urllib.parse as ul
+if len(sys.argv) > 1:
+    s = sys.argv[1]
+else:
+    s = sys.stdin.readline().rstrip()
+print(ul.quote(s))

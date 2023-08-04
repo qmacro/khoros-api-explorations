@@ -18,28 +18,9 @@
 
 set -eo pipefail
 
-declare baseurl="https://groups.community.sap.com/api/2.0"
-declare nowepochms
-declare scriptname
-
-nowepochms="$(date +%s%N | cut -b1-13)"
-scriptname="$(basename "$0")"
+source "$(dirname "$0")/lib.sh"
 
 # Utility functions -------------------------------------------------
-
-
-die() {
-
-  echo "$*"
-  exit 1
-
-}
-
-log() {
-
-  echo "$*" >> "$scriptname.log"
-
-}
 
 makerequest() {
 
@@ -63,7 +44,7 @@ search() {
   caller="${FUNCNAME[1]}"
 
   local query="${1:?Specify LiQL query}"
-  makerequest "$baseurl/search?q=$(urlencode "$query")" \
+  makerequest "$baseurl/search?q=$(urlenc "$query")" \
     | tee "$caller.json"
 
 }

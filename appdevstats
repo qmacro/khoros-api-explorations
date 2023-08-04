@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+
+set -eo pipefail
+
+source "$(dirname "$0")/lib.sh"
+
+retrievedata() {
+
+  # Retrieve the subject, post date, and various stats for all the top level
+  # discussion threads in the Application Development forum.
+  kapi """
+    select 
+      subject,
+      post_time,
+      metrics,
+      replies.count(*),
+      kudos.sum(weight) 
+    from messages
+    where board.id = 'application-developmentforum-board'
+    and depth = 0
+    limit 1000
+  """
+
+}
+
+parsedata() {
+
+  ## Parse out the selected fields, and emit tab separated records.
+  jq --raw-output """
+  def getdate: split(\"T\")|first;
+  .data.items[]
+  | [
+      (.post_time|getdate),
+      .kudos.sum.weight,
+      .replies.count,
+      .metrics.views,
+      .subject
+    ]
+  | @tsv
+  """
+
+}
+
+main() {
+
+  retrievedata | parsedata
+
+}
+
+main "$@"

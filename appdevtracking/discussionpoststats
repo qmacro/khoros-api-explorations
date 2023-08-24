@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+set -eo pipefail
+source "$(dirname "$0")/lib.sh"
+
+main() {
+
+  if [[ ! -f "$self.cache" ]] || [[ $1 =~ ^(-r|--refresh) ]]; then
+    ./getposts.js > "$self.cache"
+  fi
+  cat "$self.cache" | ./postcountsbymonth
+
+}
+
+main "$@"

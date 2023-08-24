@@ -1,0 +1,9 @@
+#!/usr/bin/env -S jq --from-file
+
+import "lib" as lib;
+
+map(lib::addmonth)
+| group_by(.month)
+| map({(first.month): length})
+| add
+

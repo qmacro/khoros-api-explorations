@@ -8,7 +8,7 @@ retrievedata() {
 
   # Retrieve the subject, post date, and various stats for all the top level
   # discussion threads in the Application Development forum.
-  kapi """
+  "$here/../kapi" """
     select 
       subject,
       post_time,

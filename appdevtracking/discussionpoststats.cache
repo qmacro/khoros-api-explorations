@@ -1,6 +1,2334 @@
 [
   {
     "type": "message",
+    "id": "283780",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-09-01T04:21:45.619+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283779",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-09-01T04:21:03.398+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283778",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-09-01T03:45:26.390+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283777",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-09-01T03:32:05.553+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283758",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-31T22:27:01.881+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283752",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-31T22:12:09.001+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283745",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-31T20:54:30.143+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283742",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-31T20:31:41.962+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283741",
+    "subject": "SAP Developer News, August 31st, 2023",
+    "post_time": "2023-08-31T20:06:26.397+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283731",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-31T19:16:57.085+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283728",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-31T18:55:10.516+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283723",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-31T18:21:43.357+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283722",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-31T18:17:39.875+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283711",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T17:47:40.481+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283703",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-31T17:28:53.992+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283696",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-31T17:11:09.545+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283679",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T15:56:11.122+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283676",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T15:53:09.598+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283656",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-31T13:58:50.384+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283611",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T11:23:47.410+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283555",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-31T07:55:56.624+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283544",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T06:28:18.556+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283543",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T06:20:29.645+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283542",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T06:19:51.123+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283538",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T05:18:37.714+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283530",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-31T03:33:45.108+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283494",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-30T21:59:41.936+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283487",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T21:11:24.653+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283467",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-30T19:24:41.359+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283464",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T19:12:39.556+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283460",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-30T18:53:21.076+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283458",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-30T18:39:01.051+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283456",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-30T18:34:43.209+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283455",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-30T18:28:55.797+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283450",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-30T18:18:53.394+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283448",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T18:13:44.360+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283443",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-30T17:52:28.675+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283439",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T17:50:52.244+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283432",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T17:33:24.890+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283428",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T17:29:58.228+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283424",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T17:12:42.267+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283420",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-30T17:10:10.337+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283417",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T17:02:27.809+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283415",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T16:58:41.606+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283406",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-30T16:35:10.288+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283398",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-30T15:53:56.104+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283384",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T15:15:29.166+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283382",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-30T15:13:54.441+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283381",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T15:10:42.676+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283380",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T15:09:46.221+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283369",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-30T14:23:20.486+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283367",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-30T14:19:49.864+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283366",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-30T14:14:11.594+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283362",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T14:09:14.536+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283358",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:59:27.526+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283356",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-30T13:58:35.846+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283353",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:46:34.859+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283352",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-30T13:43:51.151+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283351",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:39:19.543+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283350",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:38:15.583+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283349",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:36:10.882+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283348",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:35:43.099+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283346",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:32:42.004+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283345",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:29:57.514+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283343",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-30T13:27:56.190+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283342",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-30T13:27:34.536+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283340",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:23:44.428+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283338",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:17:11.483+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283330",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-30T13:07:37.224+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283327",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T13:05:29.309+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283312",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T12:07:07.306+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283310",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-30T11:58:40.860+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283308",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T11:50:32.510+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283304",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T11:45:08.079+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283303",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T11:43:19.508+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283302",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-30T11:36:34.703+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283301",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-30T11:34:25.180+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283299",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T11:25:15.687+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283296",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-30T11:22:23.083+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283295",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-30T11:21:59.223+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283294",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-30T11:14:15.428+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283286",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-30T10:52:21.256+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283280",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T10:39:15.294+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283275",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T10:32:23.963+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283273",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-30T10:31:52.332+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283269",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T10:23:38.205+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283266",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T10:14:11.682+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283248",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:40:48.005+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283238",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:28:54.640+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283235",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:25:42.526+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283234",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:24:53.983+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283230",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:12:39.945+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283228",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:08:42.656+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283226",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:06:04.464+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283224",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T09:05:40.062+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283222",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T08:56:54.188+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283219",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T08:49:57.952+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283211",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T08:10:49.034+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283210",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T08:06:57.250+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283209",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T08:06:11.392+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283208",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T07:58:09.371+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283202",
+    "subject": "SAP Developer Challenge - APIs - Task 12 - Use the access token to call the API endpoint",
+    "post_time": "2023-08-30T07:41:09.598+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283190",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-30T06:58:35.562+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283187",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-30T06:48:34.800+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283184",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-30T06:21:53.984+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283183",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-30T06:07:23.434+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283164",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-30T04:01:01.371+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283163",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-30T03:12:43.331+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283161",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-30T02:38:59.093+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283156",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-30T01:43:05.823+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283131",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-29T23:34:53.804+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283129",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T23:28:03.691+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283125",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T23:25:46.443+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283104",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-29T21:00:18.682+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283102",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-29T20:40:57.328+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283098",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-29T20:22:41.173+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283057",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T17:41:03.618+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283045",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-29T17:10:49.317+02:00"
+  },
+  {
+    "type": "message",
+    "id": "283010",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T15:56:18.502+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282989",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-29T15:08:38.384+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282978",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-29T14:57:24.010+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282953",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-29T13:52:08.306+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282950",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-29T13:45:42.010+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282948",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-29T13:43:38.903+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282926",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T12:58:22.486+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282913",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-29T12:26:36.544+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282896",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T11:44:07.265+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282879",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-29T10:50:05.428+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282872",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-29T10:35:40.339+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282865",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-29T10:09:15.891+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282859",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-29T09:52:42.973+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282850",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-29T09:43:56.264+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282828",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-29T08:53:34.224+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282827",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-29T08:53:02.886+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282825",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-29T08:49:35.310+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282824",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-29T08:47:57.324+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282822",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-29T08:44:33.560+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282821",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-29T08:44:06.249+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282820",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T08:41:21.358+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282785",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T06:33:04.950+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282781",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-29T06:21:46.241+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282778",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-29T06:12:16.567+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282777",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-29T06:11:37.087+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282776",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-29T06:10:52.532+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282759",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-29T05:55:59.875+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282755",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-29T05:34:40.602+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282754",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-29T05:34:23.891+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282739",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-29T04:16:45.936+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282732",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T03:25:16.097+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282728",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T02:45:38.220+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282726",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-29T02:35:21.764+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282722",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-29T02:18:08.998+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282721",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-29T02:14:13.888+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282720",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-29T02:00:22.129+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282719",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-29T01:58:43.460+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282718",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-29T01:57:22.768+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282716",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-29T01:46:05.805+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282714",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-29T01:35:56.174+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282713",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-29T01:21:56.522+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282709",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-29T00:15:35.849+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282702",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T23:20:20.885+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282699",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T22:49:11.173+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282698",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T22:48:57.577+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282696",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-28T22:40:22.410+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282691",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T22:03:01.353+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282690",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-28T22:02:30.581+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282688",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-28T21:58:54.974+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282666",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T20:12:06.796+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282662",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T20:05:19.423+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282656",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T19:21:01.587+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282642",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T18:53:00.450+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282639",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T18:41:15.405+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282635",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-28T18:31:42.966+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282634",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-28T18:27:28.156+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282627",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T18:04:31.462+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282622",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-28T17:38:35.972+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282621",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T17:37:30.505+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282602",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-28T16:45:20.447+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282601",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T16:45:12.550+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282600",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T16:40:25.386+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282594",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-28T16:25:02.117+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282593",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-28T16:22:00.665+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282589",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-28T16:07:14.468+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282588",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-28T16:04:03.732+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282578",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T15:48:18.866+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282575",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T15:37:29.299+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282572",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T15:33:02.748+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282570",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T15:20:56.671+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282569",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-28T15:18:00.297+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282562",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T15:04:55.706+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282560",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T15:03:19.097+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282550",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T14:50:04.340+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282549",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T14:49:56.576+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282546",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T14:35:05.860+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282543",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T14:28:30.805+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282542",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-28T14:27:31.365+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282535",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T14:13:51.752+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282532",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T14:09:22.460+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282530",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T14:02:18.071+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282528",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T13:52:37.435+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282522",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T13:43:05.463+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282521",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T13:41:57.702+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282516",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-28T13:30:27.274+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282510",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T13:03:37.704+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282503",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T12:50:45.908+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282500",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T12:48:01.090+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282499",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T12:45:00.319+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282485",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T11:56:01.451+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282475",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T11:36:02.772+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282472",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T11:32:07.356+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282466",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T11:18:25.089+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282461",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T11:07:30.168+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282460",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-28T11:07:09.240+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282457",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T11:03:26.044+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282455",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-28T10:58:38.861+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282454",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T10:57:47.910+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282453",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T10:54:15.430+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282452",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T10:53:31.369+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282441",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T10:38:00.215+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282434",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T10:29:12.701+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282430",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T10:20:38.900+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282426",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T10:12:32.088+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282409",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T09:43:06.015+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282402",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-28T09:34:26.387+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282391",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T09:02:42.131+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282388",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T08:56:38.955+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282382",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T08:45:03.738+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282381",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T08:44:52.048+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282380",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T08:43:44.087+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282379",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-28T08:43:31.621+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282374",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T08:38:32.470+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282372",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T08:35:39.975+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282366",
+    "subject": "SAP Developer Challenge - APIs - Task 11 - Examine the access token for scopes contained",
+    "post_time": "2023-08-28T08:04:40.096+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282360",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-28T07:51:36.197+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282358",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T07:40:55.901+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282356",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T07:39:33.948+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282349",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T07:30:49.962+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282343",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-28T07:14:11.709+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282322",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-28T05:49:07.876+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282317",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-28T05:26:50.544+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282315",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-28T05:18:22.734+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282306",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-28T04:33:23.644+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282301",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-28T04:08:09.873+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282286",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T03:24:13.121+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282285",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-28T03:17:26.417+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282282",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T02:21:44.134+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282281",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-28T02:20:39.322+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282277",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-27T20:45:26.422+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282275",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-27T20:30:56.512+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282271",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-27T18:18:44.939+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282270",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-27T18:12:02.904+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282269",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-27T17:46:23.595+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282268",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-27T17:42:45.891+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282265",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-27T17:39:22.622+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282261",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-27T17:22:01.350+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282260",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-27T17:19:13.639+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282254",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-27T16:34:31.442+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282253",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-27T16:32:47.556+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282248",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-27T15:51:44.017+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282246",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-27T14:56:51.388+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282234",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-27T12:47:32.251+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282232",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-27T12:43:46.724+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282231",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-27T12:40:42.588+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282199",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-27T03:22:07.986+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282198",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-27T02:52:24.836+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282197",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-27T02:31:21.794+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282196",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-27T00:58:02.947+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282191",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-26T22:02:08.728+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282182",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-26T19:04:19.309+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282181",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-26T19:02:53.280+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282180",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-26T18:55:33.461+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282174",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-26T17:46:34.166+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282167",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-26T16:22:18.866+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282153",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-26T15:33:36.368+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282140",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T13:27:46.865+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282135",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T10:06:13.736+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282134",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-26T10:05:07.835+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282130",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T09:20:44.492+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282129",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T08:19:51.278+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282128",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T06:44:47.773+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282127",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T06:23:38.489+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282126",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T06:23:35.672+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282124",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-26T06:09:14.907+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282121",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-26T02:21:03.989+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282117",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-25T23:28:33.241+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282113",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-25T22:50:42.412+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282098",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-25T19:39:23.191+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282095",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T18:56:02.404+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282094",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T18:55:33.348+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282093",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T18:49:36.928+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282092",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T18:49:15.501+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282091",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T18:48:36.125+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282090",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T18:47:12.175+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282083",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-25T17:47:48.094+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282079",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T17:30:29.637+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282063",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-25T16:34:49.679+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282062",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-25T16:33:12.613+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282061",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T16:20:58.528+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282060",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-25T16:07:20.806+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282054",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T15:42:13.481+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282051",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-25T15:26:55.277+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282050",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T15:21:37.964+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282049",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T15:17:31.896+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282048",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T15:01:57.459+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282044",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:43:37.406+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282043",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:38:10.992+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282042",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:30:15.093+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282041",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:28:18.018+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282039",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:21:37.027+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282036",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:06:55.390+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282035",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T14:02:36.732+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282031",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T13:35:20.041+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282019",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T12:49:03.849+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282016",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T12:11:42.037+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282013",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T11:59:53.564+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282012",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T11:59:38.133+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282011",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T11:59:17.272+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282002",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T11:29:14.044+02:00"
+  },
+  {
+    "type": "message",
+    "id": "282001",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T11:25:58.401+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281990",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T10:55:22.354+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281988",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-25T10:51:58.476+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281987",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T10:51:00.307+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281985",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T10:39:59.352+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281983",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-25T10:34:44.312+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281980",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-25T10:12:41.695+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281977",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T09:54:01.134+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281960",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T09:26:27.224+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281953",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T09:14:44.536+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281950",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T09:08:54.329+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281948",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T09:08:41.569+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281947",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-25T09:06:02.604+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281945",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T09:04:25.276+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281938",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T08:44:27.248+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281933",
+    "subject": "SAP Developer Challenge - APIs - Task 10 - Request an OAuth access token",
+    "post_time": "2023-08-25T08:22:02.798+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281884",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-25T04:20:12.983+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281870",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T23:11:19.858+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281861",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-24T20:23:52.786+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281850",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T19:28:21.035+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281847",
+    "subject": "SAP Developer News, August 24th, 2023",
+    "post_time": "2023-08-24T19:13:45.687+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281832",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-24T18:43:52.225+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281827",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T18:13:48.145+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281811",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-24T16:59:38.605+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281803",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-24T16:22:46.448+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281802",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-24T16:18:48.681+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281801",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T16:08:07.176+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281800",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-24T16:06:24.490+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281790",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T15:44:33.916+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281775",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T15:12:38.600+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281768",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T15:03:07.480+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281764",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 6 - Create a new Northbreeze category",
+    "post_time": "2023-08-24T14:46:34.138+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281763",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-24T14:45:54.773+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281762",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-24T14:45:17.154+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281761",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-24T14:44:47.472+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281760",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-24T14:44:19.981+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281758",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-24T14:43:44.145+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281757",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-24T14:43:06.267+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281722",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T12:44:49.494+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281720",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T12:41:12.062+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281716",
+    "subject": "Re: SAP Developer Challenge - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T12:31:42.692+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281704",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-24T11:42:32.680+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281702",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-24T11:42:03.611+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281701",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-24T11:41:39.547+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281700",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-24T11:41:17.387+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281698",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-24T11:40:22.304+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281697",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-24T11:39:06.851+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281673",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-24T10:14:01.486+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281648",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-24T08:19:21.210+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281643",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-24T07:40:19.556+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281636",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-24T06:46:30.079+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281633",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-24T06:09:57.283+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281631",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-24T06:08:58.014+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281621",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-24T04:36:05.490+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281613",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T04:12:55.895+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281612",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
+    "post_time": "2023-08-24T04:12:43.261+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281610",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-24T03:57:23.612+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281609",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-24T03:53:39.967+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281602",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 4 - Discover the Date and Time API Package",
+    "post_time": "2023-08-24T02:19:17.825+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281599",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-24T01:35:24.824+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281598",
+    "subject": "Re: SAP Developer Challenge – Open-Source ABAP (Week 1)",
+    "post_time": "2023-08-24T01:33:38.210+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281596",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-24T00:44:52.853+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281581",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 3 - Have a Northbreeze product selected for you",
+    "post_time": "2023-08-23T22:27:54.711+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281570",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 9 - Create a service key for API endpoints and auth info",
+    "post_time": "2023-08-23T21:22:07.680+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281555",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-23T19:15:08.542+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281550",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 1 - List the Northwind entity sets",
+    "post_time": "2023-08-23T18:35:47.385+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281542",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 0 - Learn to share your task results",
+    "post_time": "2023-08-23T18:15:35.351+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281533",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 8 - Create an instance of the SAP Cloud Management Service",
+    "post_time": "2023-08-23T17:55:13.377+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281531",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 2 - Calculate Northbreeze product stock",
+    "post_time": "2023-08-23T17:53:11.068+02:00"
+  },
+  {
+    "type": "message",
+    "id": "281528",
+    "subject": "Re: SAP Developer Challenge - APIs - Task 5 - Call the country date format API endpoint",
+    "post_time": "2023-08-23T17:44:35.947+02:00"
+  },
+  {
+    "type": "message",
     "id": "281514",
     "subject": "Re: SAP Developer Challenge - APIs - Task 7 - Create a new directory in an SAP BTP account",
     "post_time": "2023-08-23T16:47:26.144+02:00"

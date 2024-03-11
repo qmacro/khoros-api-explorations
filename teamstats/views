@@ -68,7 +68,7 @@ const memberlist = [
 ].join('')
 
 
-const year = process.env.YEAR || 2024
+const year = process.env.YEAR || new Date().getFullYear()
 const pivot = process.argv[2] || 'board' // alternatively 'author' or 'subject'
 
 //const results = JSON.parse(fs.readFileSync('sample.json', 'utf8'));

@@ -1,0 +1,101 @@
+#!/usr/bin/env node
+
+import * as fs from 'fs'
+import got from 'got'
+
+// Khoros Community Search API
+const communitysearchapibase = 'https://community.sap.com/khhcw49343/api/2.0/search'
+
+// Function to make an API call to the Community Search API, and deal with the
+// pagination mechanism too, by following any next_cursor pointers until all the
+// data for the query result has been retrieved. For details on the pagination, see
+// https://developer.khoros.com/khoroscommunitydevdocs/docs/pagination-with-community-api-v2
+const retrieve = async (q) => {
+
+    let cursor, result, data = []
+
+    do {
+
+        // Retrieve as many records as we are allowed (LIMIT 1000) and also use the
+        // next_cursor mechanism to consume all "pages" of the result set.
+        const query = `${q} LIMIT 1000 ${cursor ? `CURSOR '${cursor}'` : ''}`
+
+        // Make the call, expect JSON in response.
+        result = await got(`${communitysearchapibase}?q=${encodeURIComponent(query)}`, {}).json()
+
+        // Add the items to the existing data array.
+        data = data.concat(result.data.items)
+
+        // Save any next_cursor value.
+        cursor = result.data.next_cursor
+
+        // Sleep if we're going to make another call
+        if (cursor && cursor.length > 0) {
+            await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+
+        // Repeat as long as there's a next_cursor.
+    } while (cursor && cursor.length > 0)
+
+    return data
+
+}
+
+const members = [
+        53, // DJ
+        70, // Kevin
+        72, // Daniel
+        97, // Rich
+       107, // Antonio
+       139, // Tom
+       148, // Josh
+       183, // Witalij
+       274, // Mamikee
+       898, // Nico
+      7343, // Nora
+      7488, // Michelle
+    141830, // Shilpa
+    142394, // Sheena
+    148298, // Shrinivasan
+    149819, // Ajay
+    156020, // Rekha
+]
+
+const memberlist = [
+    "'",
+    members.join("','"),
+    "'",
+].join('')
+
+
+// Change these if you want
+const year = 2024
+const pivot = 'board' // alternatively 'author' or 'subject'
+
+//const results = JSON.parse(fs.readFileSync('sample.json', 'utf8'));
+const results = await(retrieve(`
+  select
+    subject,
+    author,
+    board.id,
+    metrics
+  from messages
+  where depth = 0
+  and post_time > ${year}-01-01T00:00:00.000+00:00
+  and post_time < ${year}-12-31T23:59:59.999+00:00
+  and author.id in (${memberlist})
+`))
+
+const sum_by = prop => (a, x) => { a[x[prop]] = (a[x[prop]] || 0) + x.views; return a }
+
+const stats = results
+    .map(x => ({
+        "subject": x.subject,
+        "author": x.author.login,
+        "board": x.board.id,
+        "views": x.metrics.views
+    }))
+    .reduce(sum_by(pivot), {})
+
+console.log(JSON.stringify(stats, null, 2))
+

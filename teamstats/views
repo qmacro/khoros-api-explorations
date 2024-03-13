@@ -3,6 +3,15 @@
 import * as fs from 'fs'
 import got from 'got'
 
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+import * as path from 'path';
+
+const testfile = 'sample.json'
+
+const here = () => dirname(fileURLToPath(import.meta.url))
+const emit = x => { console.log(JSON.stringify(x, null, 2)) }
+
 // Khoros Community Search API
 const communitysearchapibase = 'https://community.sap.com/khhcw49343/api/2.0/search'
 
@@ -67,34 +76,57 @@ const memberlist = [
     "'",
 ].join('')
 
+const main = async () => {
 
-const year = process.env.YEAR || new Date().getFullYear()
-const pivot = process.argv[2] || 'board' // alternatively 'author' or 'subject'
+    const year = process.env.YEAR || new Date().getFullYear()
+    const pivot = process.argv[2] || 'board' // alternatively 'author' or 'subject'
 
-//const results = JSON.parse(fs.readFileSync('sample.json', 'utf8'));
-const results = await(retrieve(`
-  select
-    subject,
-    author,
-    board.id,
-    metrics
-  from messages
-  where depth = 0
-  and post_time > ${year}-01-01T00:00:00.000+00:00
-  and post_time < ${year}-12-31T23:59:59.999+00:00
-  and author.id in (${memberlist})
-`))
+    let results
 
-const sum_by = prop => (a, x) => { a[x[prop]] = (a[x[prop]] || 0) + x.views; return a }
+    // If TEST env var is set, use sample file for data instead of real API call
+    if (process.env.TEST?.length) {
+        results = JSON.parse(fs.readFileSync(path.join(here(), testfile), 'utf8'));
+    } else {
+        results = await(retrieve(`
+          select
+            subject,
+            author,
+            board.id,
+            metrics
+          from messages
+          where depth = 0
+          and post_time > ${year}-01-01T00:00:00.000+00:00
+          and post_time < ${year}-12-31T23:59:59.999+00:00
+          and author.id in (${memberlist})
+        `))
+    }
 
-const stats = results
-    .map(x => ({
-        "subject": x.subject,
-        "author": x.author.login,
-        "board": x.board.id,
-        "views": x.metrics.views
-    }))
-    .reduce(sum_by(pivot), {})
+    // Produce a function to use in a reduce, that will accumulate by the property given
+    const sum_by = prop => (a, x) => { a[x[prop]] = (a[x[prop]] || 0) + x.views; return a }
 
-console.log(JSON.stringify(stats, null, 2))
+    const stats = results
+ 
+        // Work through the results, simplifying into four key properties
+        .map(x => ({
+            "subject": x.subject,
+            "author": x.author.login,
+            "board": x.board.id,
+            "views": x.metrics.views
+        }))
 
+        // Accumulate by the pivot property given (subject, author or board)
+        .reduce(sum_by(pivot), {})
+
+    emit(
+        Object.entries(stats)
+            // Order pivot:views list by views descending
+            .sort((a, b) => b[1] - a[1])
+
+            // Not really recommended as objects are unsequenced but ...
+            // turn the sorted pivot:views list back into an object
+            .reduce((a, x) => { a[x[0]] = x[1]; return a }, {})
+    )
+
+}
+
+main()

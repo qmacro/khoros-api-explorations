@@ -9,6 +9,26 @@ import * as path from 'path';
 
 const testfile = 'sample.json'
 
+const members = [
+        53, // DJ
+        70, // Kevin
+        72, // Daniel
+        97, // Rich
+       107, // Antonio
+       139, // Tom
+       148, // Josh
+       183, // Witalij
+       274, // Mamikee
+       898, // Nico
+      7343, // Nora
+      7488, // Michelle
+    141830, // Shilpa
+    142394, // Sheena
+    148298, // Shrinivasan
+    149819, // Ajay
+    156020, // Rekha
+]
+
 const here = () => dirname(fileURLToPath(import.meta.url))
 const emit = x => { console.log(JSON.stringify(x, null, 2)) }
 
@@ -49,26 +69,6 @@ const retrieve = async (q) => {
     return data
 
 }
-
-const members = [
-        53, // DJ
-        70, // Kevin
-        72, // Daniel
-        97, // Rich
-       107, // Antonio
-       139, // Tom
-       148, // Josh
-       183, // Witalij
-       274, // Mamikee
-       898, // Nico
-      7343, // Nora
-      7488, // Michelle
-    141830, // Shilpa
-    142394, // Sheena
-    148298, // Shrinivasan
-    149819, // Ajay
-    156020, // Rekha
-]
 
 const memberlist = [
     "'",

@@ -1,0 +1,1275 @@
+[
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 8",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 21
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "72",
+      "href": "/users/72",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/72",
+      "login": "Dan_Wroblewski"
+    },
+    "subject": "What's your tip for using SAP Build Apps?",
+    "board": {
+      "type": "board",
+      "id": "buildersforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 71
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "SAP Developer News, March 7th, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 263
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "Poland SAP online meetup: SAP Build Process Automation",
+    "board": {
+      "type": "board",
+      "id": "stammtisch"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 94
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "142394",
+      "href": "/users/142394",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/142394",
+      "login": "sheenamk"
+    },
+    "subject": "🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 2694
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "March Developer Challenge - CloudEvents: Week 1",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 2409
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "72",
+      "href": "/users/72",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/72",
+      "login": "Dan_Wroblewski"
+    },
+    "subject": "New way to view payload for process API trigger",
+    "board": {
+      "type": "board",
+      "id": "builderstkb-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 115
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "🇪🇸 SAP Build: Create Apps and Processes Without Coding (Valencia, Spain)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 199
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 7",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 230
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "CloudEvents at SAP 🌁",
+    "board": {
+      "type": "board",
+      "id": "application-developmentblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1894
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "SAP Developer News for February 29, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 372
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "SAP CodeJam Roadshow 2024",
+    "board": {
+      "type": "board",
+      "id": "code-jamblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 474
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "SAP CodeJam Roadshow 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 192
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "149819",
+      "href": "/users/149819",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/149819",
+      "login": "ajay_soreng"
+    },
+    "subject": "SAP Inside Track Bengaluru - My first engagement as speaker for the SAP Community Event",
+    "board": {
+      "type": "board",
+      "id": "bangaloreblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 276
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇪🇸 SAP CodeJam RAP & CAP (Madrid, Spain)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 633
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇫🇷 SAP CodeJam RAP & CAP (Paris, France)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 504
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇩🇪 SAP CodeJam ABAP Cloud (Leverkusen, Germany)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 654
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇳🇱 SAP CodeJam ABAP Cloud (Amsterdam, Netherlands)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 717
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇷🇴 SAP CodeJam ABAP Cloud (Bucharest, Romania)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 340
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "February Developer Challenge - CAP Plugins: Week 4",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 4089
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "148298",
+      "href": "/users/148298",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/148298",
+      "login": "eshrinivasan"
+    },
+    "subject": "🇮🇳 SAP CodeJam on SAP Build: Create Apps and Processes Without Coding",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 652
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "Additional SAP Community feeds 📡",
+    "board": {
+      "type": "board",
+      "id": "whats-new"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 804
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "156020",
+      "href": "/users/156020",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/156020",
+      "login": "Rekha_DR"
+    },
+    "subject": "SAP has Successfully Delivered SAP Build CodeJam at Walmart Global Tech, Bangalore",
+    "board": {
+      "type": "board",
+      "id": "bangaloreforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 210
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "SAP Developer News, February 22nd, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 433
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "Lausanne and Zurich: \"Getting Started with Machine Learning using SAP HANA\" SAP CodeJams in March",
+    "board": {
+      "type": "board",
+      "id": "zuerichforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 205
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "February Developer Challenge - CAP Plugins: Week 3",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 4276
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "898",
+      "href": "/users/898",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/898",
+      "login": "nicoschoenteich"
+    },
+    "subject": "🇳🇱 SAP CodeJam UI5 & SAP Fiori elements flexible programming model (Utrecht, Netherlands)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 498
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "SAP CodeJams in Zagreb, 🇭🇷",
+    "board": {
+      "type": "board",
+      "id": "code-jamblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 463
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 6",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 416
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇩🇪 SAP CodeJam ABAP Cloud (Freiburg, DE)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 580
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "SAP Developer News, February 15th, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 286
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Opening files from the terminal in BAS dev spaces",
+    "board": {
+      "type": "board",
+      "id": "application-developmentblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 225
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "🇨🇭 Lausanne and Zurich: \"Getting Started with Machine Learning using SAP HANA\" in March",
+    "board": {
+      "type": "board",
+      "id": "technology-blog-sap"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 329
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "February Developer Challenge - CAP Plugins: Week 2",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 7634
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "Next Wrocław SAP Meetup: March 14, 2024",
+    "board": {
+      "type": "board",
+      "id": "wroclawforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 228
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "🇨🇭 Getting Started with Machine Learning using SAP HANA (Zurich, CH)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1460
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "🇨🇭 Getting Started with Machine Learning using SAP HANA (Lausanne, CH)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 771
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "🇩🇪 Service integration with SAP Cloud Application Programming Model (St Leon-Rot, DE)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 356
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "141830",
+      "href": "/users/141830",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/141830",
+      "login": "Shilpa_Shankar"
+    },
+    "subject": "International Day of Women and Girls in Science",
+    "board": {
+      "type": "board",
+      "id": "Women-in-Techblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 6640
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "Wrocław SAP Meetup - 2024.03",
+    "board": {
+      "type": "board",
+      "id": "stammtisch"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1634
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 5",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 269
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "TIL - Fixing the invalid HTML error when posting in Khoros",
+    "board": {
+      "type": "board",
+      "id": "whats-new"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 472
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "SAP Developer News, February 8th, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 721
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "New SAP Community - Profile Signatures",
+    "board": {
+      "type": "board",
+      "id": "whats-new"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 2110
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Successful double CodeJam in Wroclaw and Warsaw",
+    "board": {
+      "type": "board",
+      "id": "code-jamblog-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 726
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "February Developer Challenge - CAP Plugins: Week 1",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 9243
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "Exploring the RSS feeds of the new SAP Community platform",
+    "board": {
+      "type": "board",
+      "id": "whats-new"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 2913
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "🇱🇹 Getting Started with Machine Learning using SAP HANA and Python (Vilnius, LT)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 691
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 4",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 245
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "183",
+      "href": "/users/183",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/183",
+      "login": "Vitaliy-R"
+    },
+    "subject": "SAP Stammtisch Warszawa",
+    "board": {
+      "type": "board",
+      "id": "stammtisch"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 269
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "SAP Developer News, February 1st, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 642
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇩🇪 SAP CodeJam ABAP Cloud (Halle, DE)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 453
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "97",
+      "href": "/users/97",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/97",
+      "login": "RichHeilman"
+    },
+    "subject": "🇩🇪 SAP CodeJam ABAP Cloud (Berlin, DE)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1010
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "🇺🇸 SAP CodeJam ABAP Cloud and the RESTful Application Programming Model (Lansing, MI USA)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 217
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "149819",
+      "href": "/users/149819",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/149819",
+      "login": "ajay_soreng"
+    },
+    "subject": "🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1564
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 3",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 268
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "SAP Developer News, January 25th, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1327
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "72",
+      "href": "/users/72",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/72",
+      "login": "Dan_Wroblewski"
+    },
+    "subject": "🇩🇪 SAP Build: Create Apps and Processes Without Coding (Herne, Germany)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1372
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "72",
+      "href": "/users/72",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/72",
+      "login": "Dan_Wroblewski"
+    },
+    "subject": "🇧🇪 SAP Build: Create Apps and Processes Without Coding (Ghent, Belgium)",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 2705
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 2",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 299
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "139",
+      "href": "/users/139",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/139",
+      "login": "thomas_jung"
+    },
+    "subject": "SAP Developer News, January 11th, 2024",
+    "board": {
+      "type": "board",
+      "id": "application-developmentforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 393
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "72",
+      "href": "/users/72",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/72",
+      "login": "Dan_Wroblewski"
+    },
+    "subject": "CAP primary key – can metadata not include Nullable = false",
+    "board": {
+      "type": "board",
+      "id": "technology-questions"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 448
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "156020",
+      "href": "/users/156020",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/156020",
+      "login": "Rekha_DR"
+    },
+    "subject": "🇮🇳 Invite to take part in \"SAP Build CodeJam\" at Walmart Global Tech, Bengaluru, INDIA",
+    "board": {
+      "type": "board",
+      "id": "bangaloreforum-board"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 264
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "156020",
+      "href": "/users/156020",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/156020",
+      "login": "Rekha_DR"
+    },
+    "subject": "🇮🇳 SAP CodeJam on SAP Build: Create Apps and Processes  Without Coding",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 1122
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "107",
+      "href": "/users/107",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/107",
+      "login": "ajmaradiaga"
+    },
+    "subject": "SAP BTP plugin for Steampipe: Install and setup",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 128
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "53",
+      "href": "/users/53",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/53",
+      "login": "qmacro"
+    },
+    "subject": "Back to basics with SAP Cloud Application Programming Model (CAP) - part 1",
+    "board": {
+      "type": "board",
+      "id": "community-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 569
+    }
+  },
+  {
+    "type": "message",
+    "author": {
+      "type": "user",
+      "id": "142394",
+      "href": "/users/142394",
+      "view_href": "https://community.sap.com/t5/user/viewprofilepage/user-id/142394",
+      "login": "sheenamk"
+    },
+    "subject": "🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP",
+    "board": {
+      "type": "board",
+      "id": "codejam-events"
+    },
+    "metrics": {
+      "type": "message_metrics",
+      "views": 912
+    }
+  }
+]

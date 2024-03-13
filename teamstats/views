@@ -105,7 +105,7 @@ const main = async () => {
     const sum_by = prop => (a, x) => { a[x[prop]] = (a[x[prop]] || 0) + x.views; return a }
 
     const stats = results
- 
+
         // Work through the results, simplifying into four key properties
         .map(x => ({
             "subject": x.subject,

@@ -1,0 +1,41 @@
+{
+  "name": "khoros-api-explorations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cacheable-lookup": "^7.0.0",
+    "cacheable-request": "^10.2.13",
+    "decompress-response": "^6.0.0",
+    "defer-to-connect": "^2.0.1",
+    "form-data-encoder": "^2.1.4",
+    "get-stream": "^6.0.1",
+    "got": "^13.0.0",
+    "http-cache-semantics": "^4.1.1",
+    "http2-wrapper": "^2.2.0",
+    "json-buffer": "^3.0.1",
+    "keyv": "^4.5.3",
+    "lowercase-keys": "^3.0.0",
+    "mimic-response": "^4.0.0",
+    "normalize-url": "^8.0.0",
+    "p-cancelable": "^3.0.0",
+    "quick-lru": "^5.1.1",
+    "resolve-alpn": "^1.2.1",
+    "responselike": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qmacro/khoros-api-explorations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qmacro/khoros-api-explorations/issues"
+  },
+  "homepage": "https://github.com/qmacro/khoros-api-explorations#readme"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "group-membership",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^14.0.0",
+    "tough-cookie": "^4.1.3"
+  }
+}

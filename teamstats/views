@@ -92,7 +92,8 @@ const main = async () => {
             subject,
             author,
             board.id,
-            metrics
+            metrics,
+            kudos.sum(weight)
           from messages
           where depth = 0
           and post_time > ${year}-01-01T00:00:00.000+00:00
@@ -111,6 +112,7 @@ const main = async () => {
             "subject": x.subject,
             "author": x.author.login,
             "board": x.board.id,
+            "kudos": x.kudos.sum.weight,
             "views": x.metrics.views
         }))
 

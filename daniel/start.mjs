@@ -73,21 +73,19 @@ const getMessageImages = async (messageid) => {
       size
     ].join('-') + `.${ext}`
 
-    console.log(image[`${size}_href`], filename)
+    console.log(filename)
 
     // Download
     got.stream(image[`${size}_href`]).pipe(fs.createWriteStream(filename))
   })
 }
 
-//const messages = await retrieve(eventquery)
-//messages.forEach(x => console.log(x.id))
-    //await new Promise(resolve => setTimeout(resolve, 500));
 const main = async () => {
-  await getMessageImages('13873841')
-  await new Promise(resolve => setTimeout(resolve, 1000));
+  const messages = await retrieve(eventquery)
+  messages.forEach(async message => {
+    await getMessageImages(message.id)
+    await new Promise(resolve => setTimeout(resolve, 1000));
+  })
 }
-
-
 
 main()

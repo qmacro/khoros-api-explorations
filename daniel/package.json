@@ -1,0 +1,15 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "main": "start.mjs",
+  "scripts": {
+    "start": "node start.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "got": "^14.4.3"
+  }
+}

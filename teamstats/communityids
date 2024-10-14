@@ -1,0 +1,32 @@
+#!/usr/bin/env node
+
+import got from 'got'
+
+const members = [
+    53, // DJ
+    70, // Kevin
+    72, // Daniel
+    97, // Rich
+    107, // Antonio
+    139, // Tom
+    148, // Josh
+    183, // Witalij
+    274, // Mamikee
+    898, // Nico
+    7343, // Nora
+    7488, // Michelle
+    141830, // Shilpa
+    142394, // Sheena
+    148298, // Shrinivasan
+    149819, // Ajay
+    156020, // Rekha
+]
+
+const main = async () => {
+    const communitysearchapibase = 'https://community.sap.com/khhcw49343/api/2.0/search'
+    const inarray = JSON.stringify(members.map(x => x.toString()))
+    console.log(inarray)
+}
+
+main()
+//        data = data.concat(result.data.items)
